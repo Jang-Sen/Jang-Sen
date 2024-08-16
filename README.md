@@ -32,7 +32,9 @@
     </a>
   </div>
   <div align="center" dir="auto">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://camo.githubusercontent.com/42dd3f9f9345fb4…072696e67626f6f74266c6f676f436f6c6f723d7768697465">
   </div>
 </div>
 <!--
