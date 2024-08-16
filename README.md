@@ -1,5 +1,7 @@
-<div align="center" class="markdown-heading" dir="auto">
-  안녕하세요! 오장원 입니다. 👋
+<div align="center" dir="auto">
+  <div class="markdown-heading">
+    안녕하세요! 오장원 입니다. 👋
+  </div>
   <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">
       📞 Find Me
