@@ -2,6 +2,7 @@
   <div class="markdown-heading">
     안녕하세요! 오장원 입니다. 👋
   </div>
+  <br>
   <div class="markdown-heading" dir="auto">
     <h3 align="center" class="heading-element" dir="auto">
       🧑🏻‍💻 Profile 🧑🏻‍💻
@@ -18,6 +19,7 @@
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     </a>
   </div>
+</div>
 <!--
 **Jang-Sen/Jang-Sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
