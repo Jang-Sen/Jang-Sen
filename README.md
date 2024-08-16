@@ -1,6 +1,8 @@
 <div align="center" dir="auto">
-  <div class="markdown-heading">
-    안녕하세요! 오장원 입니다. 👋
+  <div class="markdown-heading" dir="auto">
+    <h3 align="center" class="heading-element" dir="auto">
+      안녕하세요! 오장원 입니다 👋
+    </h3>
   </div>
   <br>
   <div class="markdown-heading" dir="auto">
