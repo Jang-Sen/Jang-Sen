@@ -47,6 +47,8 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     &nbsp;
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+    &nbsp;
+    <img src="https://camo.githubusercontent.com/3f920c5a60a0455addda20114ac7dc99bbff5d743caa8cbfad22fc58ec06b104/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f717565727964736c2d3436453342373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e4772696e646572266c6f676f436f6c6f723d7768697465">
   </div>
   <br>
   <div align="center" dir="auto">
@@ -57,8 +59,36 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     &nbsp;
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  </div>
+  <br>
+  <div class="markdown-heading" dir="auto">
+    <h3 align="center" class="heading-element" dir="auto">
+      🛠️ Tools 🛠️
+    </h3>
+    <a id="user-content--tools-" class="anchor" aria-rabel="Permalink: 🛠️ Tools 🛠️" href="#-tools-">
+      <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">  
+        </path>
+      </svg>
+    </a>
+  </div>
+  <div align="center" dir="auto">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     &nbsp;
-    <img src="">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </div>
+  <div align="center" dir="auto">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    &nbsp;
+    <img src="https://camo.githubusercontent.com/3ba813741a2477c3b88e8fb39fa7a524a8eb3eefc00b812f8d3c50d48a29086e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d4633463346332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d626c61636b">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  </div>
+  <br>
+  <div align="center" dir="auto">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   </div>
 </div>
 <!--
